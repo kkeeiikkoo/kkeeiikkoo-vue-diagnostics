@@ -565,7 +565,7 @@ footer {
 @media screen and (max-width: 480px) {
   .answer__group p {
     font-size: 0.8rem;
-    margin: 0;
+    margin: 0.2rem;
     text-align: center;
   }
   .answer__group p span {
