@@ -523,7 +523,9 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
+  .question__count {
   font-size: 0.9rem;
+  }
 }
 
 .answer__title {
