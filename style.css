@@ -116,7 +116,7 @@ footer {
 }
 
 .cheattext {
-  opacity: 0.6;
+  opacity: 0.7;
 }
 
 .cheattext2 {
@@ -198,6 +198,14 @@ footer {
   }
 }
 
+@media screen and (min-height: 750px) {
+  
+  .title_background {
+            margin-top: 5rem;
+        }
+}
+
+
 .title_background--begin {
   background-image: url("images/starttitle_begin.png");
 }
@@ -228,6 +236,12 @@ footer {
     width: 90%;
     height: fit-content;
     padding-bottom: 2rem;   
+  }
+}
+
+@media screen and (min-height: 750px) {
+  .question {
+    margin-top:5rem
   }
 }
 
