@@ -226,7 +226,8 @@ footer {
   .question {
     margin-top: 1rem;
     width: 90%;
-    height: 70%;
+    height: fit-content;
+    padding-bottom: 2rem;   
   }
 }
 
