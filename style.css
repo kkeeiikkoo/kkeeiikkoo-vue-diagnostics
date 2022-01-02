@@ -174,8 +174,11 @@ footer {
 }
 
 @media screen and (min-width: 1800px) {
+  
+  .title_background {
   width: 40rem;
   height: 40rem;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -230,7 +233,9 @@ footer {
 }
 
 @media screen and (min-width: 1800px) {
+  .question {
   height: 60%;
+  }
 }
 
 @media screen and (max-width: 768px) {
