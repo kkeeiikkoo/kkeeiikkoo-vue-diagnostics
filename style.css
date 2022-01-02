@@ -173,6 +173,11 @@ footer {
   transition: all .2s ease-out;
 }
 
+@media screen and (min-width: 1800px) {
+  width: 40rem;
+  height: 40rem;
+}
+
 @media screen and (max-width: 768px) {
   .title_background {
     width: 25rem;
@@ -222,6 +227,10 @@ footer {
   margin: auto;
   -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
           box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (min-width: 1800px) {
+  height: 60%;
 }
 
 @media screen and (max-width: 768px) {
@@ -505,6 +514,10 @@ footer {
 
 .question__count {
   text-align: center;
+  font-size: 1.1rem;
+}
+
+@media screen and (max-width: 480px) {
   font-size: 0.9rem;
 }
 
