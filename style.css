@@ -553,7 +553,7 @@ footer {
 .answer__score {
   text-align: center;
   font-size: 1.5rem;
-  margin-top: 3rem;
+  margin-top: 1.5rem;
 }
 
 @media screen and (max-width: 480px) {
@@ -582,7 +582,7 @@ footer {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   padding: 0 0.8rem;
 }
 
