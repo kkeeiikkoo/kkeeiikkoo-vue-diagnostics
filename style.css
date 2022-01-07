@@ -68,6 +68,7 @@ header div p {
   font-size: 1.8rem;
   font-weight: 700;
   color: gray;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 480px) {
